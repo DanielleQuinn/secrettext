@@ -4,7 +4,7 @@ Title: Encrypt Text Using a Shifting Substitution Cipher
 Version: 0.1.0
 Author: Danielle Quinn
 Maintainer: Danielle Quinn <danielle.quinn@mun.ca>
-Description: Encrypt text using a simple shifting substitution cipher with `setcode()`, providing two numeric keys used to define the encryption algorithm. The resulting text can be decoded using `decode()` function and the two numeric keys specified during encryption.
+Description: Encrypt text using a simple shifting substitution cipher with setcode(), providing two numeric keys used to define the encryption algorithm. The resulting text can be decoded using decode() function and the two numeric keys specified during encryption.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
